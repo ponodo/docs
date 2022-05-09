@@ -1,6 +1,6 @@
 # Qonnodo Documentation
 
-You can find the online version of the Laravel documentation at https://qonnodo.com/documentation
+You can find the online version of the Ponodo documentation at https://qonnodo.com/documentation
 
 ## Contribution Guideline
 
