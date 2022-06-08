@@ -1,4 +1,10 @@
-# Container
+---
+title: Application Container
+draft: false
+description: |
+    Container like a foundation of your home, the stronger the foundation, the toughter the application.
+section: Architecture Concepts
+---
 
 Understanding the Ponodo container is essential to building a powerful, large application, as well
 as for contributing to the Ponodo core itself. If we can assume building application like building 

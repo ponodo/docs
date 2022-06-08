@@ -1,4 +1,9 @@
-# Installation
+---
+title: Installation
+draft: false
+description: How to install
+section: Getting started
+---
 
 ## Poetry
 
