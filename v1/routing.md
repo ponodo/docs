@@ -1,4 +1,10 @@
-# Routing
+---
+title: Routing
+draft: false
+description: |
+    Defining how your url path like, what is the method. Ponodo give you a routing mechanism that super easy.
+section: The Basics
+---
 
 ```python
 Route.get('/hello', lambda: 'world')

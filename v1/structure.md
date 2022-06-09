@@ -1,4 +1,9 @@
-# Directory Structure
+---
+title: Directory Structure
+draft: false
+description: ''
+section: Getting Started
+---
 
 The blog directory will have a number of generated files and folders that make up the structure of a Rails application. Most of the work in this tutorial will happen in the app folder, but here's a basic rundown on the function of each of the files and folders that Rails creates by default:
 

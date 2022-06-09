@@ -1,6 +1,11 @@
-# Controller
+---
+title: Controllers
+draft: false
+description: |
+    Controllers is great place to connecting your request, model, and also outputing the response.
+section: The Basics
+---
 
-Basic controller
 
 ```python
 class BookController(Controller):

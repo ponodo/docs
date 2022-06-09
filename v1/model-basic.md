@@ -1,4 +1,11 @@
-# Model
+---
+title: Model Basic
+draft: false
+description: |
+    Model is core part of MVC architecture, which is the 'M' part. Ponodo give you high abstraction to interact with the database tables.
+section: Model
+---
+
 
 ## Convention Over Configuration
 

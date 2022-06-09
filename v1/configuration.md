@@ -1,4 +1,9 @@
-# Configuration
+---
+title: Configuration
+draft: false
+description: ''
+section: Getting Started
+---
 
 ## Introduction
 
